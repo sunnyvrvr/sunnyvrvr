@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, Welcome my GitHub 👋
+<br>
 
-<!--
-**sunnyvrvr/sunnyvrvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✏️ Introduce
+Hello, I'm Sunjin Jung, a junior developer! 😄 <br><br>
 
-Here are some ideas to get you started:
+I am focusing on JavaScript as my main language and learning various frameworks. 💻 <br>
+I enjoy development itself, regardless of whether it's backend or frontend. 🏆 <br>
+Drawing from my extensive experience in web and app planning, I passionately derive joy from translating those intricate concepts into elegant lines of code. <br>
+I'm seeking help with various development knowledge with developing activities. 🛠 <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🛠 Experienced Tech Stack
+
+
+## Language and Framework:<br>
+React, NodeJS, TailWind CSS, jQuery, Java, Java Spring Boot, C language <br><br>
+<b>Learning</b>
+TypeScript, Redux, Next.js, Python, C
+<br> <br>
+
+      
+## Infra and Tools:  <br>
+
+AWS, vscode, git, GitHub,   GitHub PagesFigma, Notion      <br>
+      
+<b>Learning</b> 
+Linux, Docker, MongoDB,  Netlify, Postman  <br>
