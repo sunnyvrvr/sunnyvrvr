@@ -16,13 +16,15 @@ I'm seeking help with various development knowledge with developing activities. 
 ## Language and Framework:<br>
 React, NodeJS, TailWind CSS, jQuery, Java, Java Spring Boot, C language <br><br>
 <b>Learning</b>
-TypeScript, Redux, Next.js, Python, C
+TypeScript, Redux, Next.js, Python, C++ language
 <br> <br>
 
       
 ## Infra and Tools:  <br>
 
-AWS, vscode, git, GitHub,   GitHub PagesFigma, Notion      <br>
+AWS, VScode, git, GitHub, GitHub Pages, Figma, Notion <br>
       
 <b>Learning</b> 
 Linux, Docker, MongoDB,  Netlify, Postman  <br>
+
+<br>
